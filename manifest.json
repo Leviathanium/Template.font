@@ -6,27 +6,5 @@
     "author": "Your Name",
     "creation_date": "2025-04-22T00:00:00Z",
     "exported_by": "Theme Manager v1.0.0"
-  },
-  "content": {
-    "og_replaced": true,
-    "next_replaced": true
-  },
-  "path_mappings": {
-    "OG": {
-      "theme_path": "OG.ttf",
-      "system_path": "/mnt/SDCARD/.system/res/font2.ttf"
-    },
-    "Next": {
-      "theme_path": "Next.ttf",
-      "system_path": "/mnt/SDCARD/.system/res/font1.ttf"
-    },
-    "OG.backup": {
-      "theme_path": "OG.backup.ttf",
-      "system_path": "/mnt/SDCARD/.system/res/font2.backup.ttf"
-    },
-    "Next.backup": {
-      "theme_path": "Next.backup.ttf",
-      "system_path": "/mnt/SDCARD/.system/res/font1.backup.ttf"
-    }
   }
 }
